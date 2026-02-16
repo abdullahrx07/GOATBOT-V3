@@ -47,7 +47,7 @@ npm install
 
 ### 3. Facebook Appstate Add Do it
 
-- Paste your Facebook account's `appstate.json` file in the root folder.
+- Paste your Facebook account's `appstate.txt` file in the root folder.
 
 - Ensure that the file is valid and updated.
 
