@@ -1,4 +1,4 @@
-# 🤖 Messenger Bot Framework (Fork Version)
+# GOATBOT V3 〄
 
 A powerful and modular **Facebook Messenger Bot Framework** built with **Node.js**.  
 This project includes a command system, event handlers, database support, uptime system, and dashboard-ready controllers.
