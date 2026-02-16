@@ -8,7 +8,7 @@ module.exports = {
     name: "up",
     aliases: ["dashboard"],
     version: "3.7",
-    author: "SaGor",//Author change korle tor marechudi 
+    author: "Azadx69x",//Author change korle tor marechudi 
     role: 0,
     countDown: 5,
     shortDescription: { en: "System status card" },
@@ -91,7 +91,7 @@ module.exports = {
       hostname,
       `${ping} ms`,
       `${botMemory} MB`,
-      "SaGor"
+      "Azadx69x"
     ];
 
     const labelColors = [

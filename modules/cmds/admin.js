@@ -6,7 +6,7 @@ module.exports = {
         name: "admin",
         aliases: ["ad"],
         version: "1.1",
-        author: "SaGor",
+        author: "Azadx69x",
         countDown: 5,
         role: 0,
         shortDescription: {
@@ -29,7 +29,7 @@ module.exports = {
         en: {
             listAdmin:
 `╔════⛨ 𝐀𝐃𝐌𝐈𝐍 𝐋𝐈𝐒𝐓 ⛨════╗
-     ✪ 𝙾𝚆𝙽𝙴𝚁: 𝚂𝙰𝙶𝙾𝚁
+     ✪ 𝙾𝚆𝙽𝙴𝚁: 𝙰𝚣𝚊𝚍 𝚇69𝚇
 ╠═══════════════════╣
      📋 𝙰𝚍𝚖𝚒𝚗 𝙻𝚒𝚜𝚝:
 %1

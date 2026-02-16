@@ -6,7 +6,7 @@ module.exports = {
         name: "file",
         aliases: ["files"],
         version: "3.0",
-        author: "𝗦𝗔𝗚𝗢𝗥",
+        author: "Azadx69x",
         countDown: 3,
         role: 0,
         shortDescription: "bot file",
@@ -18,7 +18,7 @@ module.exports = {
     onStart: async function ({ message, args, api, event }) {
 
         const permission = [
-            "61581197276223",
+            "61585772322631",
             "",
             "",
             ""

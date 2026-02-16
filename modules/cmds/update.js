@@ -8,7 +8,7 @@ module.exports = {
 	config: {
 		name: "update",
 		version: "1.5",
-		author: "NTKhang | SAGOR. X",
+		author: "NTKhang | Azadx69x",
 		role: 2,
 		description: {
 			en: "Check for and install updates for the chatbot.",
@@ -23,7 +23,7 @@ module.exports = {
 
 	langs: {
 		vi: {
-			noUpdates: "✅ | Bạn đang sử dụng phiên bản mới nhất của SAGOR BOT V2 (v%1).",
+			noUpdates: "✅ | Bạn đang sử dụng phiên bản mới nhất của X69X BOT V2 (v%1).",
 			updatePrompt: "💫 | Bạn đang sử dụng phiên bản %1. Hiện tại đã có phiên bản %2. Bạn có muốn cập nhật chatbot lên phiên bản mới nhất không?"
 				+ "\n\n⬆️ | Các tệp sau sẽ được cập nhật:"
 				+ "\n%3%4"
@@ -37,14 +37,14 @@ module.exports = {
 			botWillRestart: "🔄 | Bot sẽ khởi động lại ngay!"
 		},
 		en: {
-			noUpdates: "┌─❖\n│ 𝗦𝗔𝗚𝗢𝗥 𝗕𝗢𝗧 𝗩𝟮 𝗨𝗣𝗗𝗔𝗧𝗘𝗦\n├─•\n│ ✅ 𝗔𝗹𝗿𝗲𝗮𝗱𝘆 𝗨𝗽-𝘁𝗼-𝗱𝗮𝘁𝗲!\n│ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻: v%1\n│ 𝗖𝗵𝗲𝗰𝗸𝗲𝗱: %2\n├─•\n│ 📊 𝗦𝘆𝘀𝘁𝗲𝗺 𝗦𝘁𝗮𝘁𝘀:\n│ • 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲: %3\n│ • 𝗠𝗲𝗺𝗼𝗿𝘆: %4\n│ • 𝗖𝗣𝗨: %5\n│ • 𝗨𝗽𝘁𝗶𝗺𝗲: %6\n└─❖",
-			updatePrompt: "┌─❖\n│ 𝗦𝗔𝗚𝗢𝗥 𝗕𝗢𝗧 𝗩𝟮 𝗨𝗣𝗗𝗔𝗧𝗘𝗦\n├─•\n│ 💫 𝗡𝗲𝘄 𝗨𝗽𝗱𝗮𝘁𝗲 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲!\n│ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁: v%1 → 𝗡𝗲𝘄: v%2\n├─•\n│ 📁 𝗙𝗶𝗹𝗲𝘀 𝘁𝗼 𝗨𝗽𝗱𝗮𝘁𝗲:\n%3%4\n├─•\n│ ℹ️ 𝗗𝗲𝘁𝗮𝗶𝗹𝘀: https://github.com/ntkhang03/Goat-Bot-V2/commits\n│ 💡 𝗥𝗲𝗮𝗰𝘁 𝘁𝗼 𝘁𝗵𝗶𝘀 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 𝘁𝗼 𝗰𝗼𝗻𝗳𝗶𝗿𝗺 𝗨𝗽𝗱𝗮𝘁𝗲\n└─❖",
+			noUpdates: "┌─❖\n│ 𝗫𝟲𝟵𝗫 𝗕𝗢𝗧 𝗩𝟮 𝗨𝗣𝗗𝗔𝗧𝗘𝗦\n├─•\n│ ✅ 𝗔𝗹𝗿𝗲𝗮𝗱𝘆 𝗨𝗽-𝘁𝗼-𝗱𝗮𝘁𝗲!\n│ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻: v%1\n│ 𝗖𝗵𝗲𝗰𝗸𝗲𝗱: %2\n├─•\n│ 📊 𝗦𝘆𝘀𝘁𝗲𝗺 𝗦𝘁𝗮𝘁𝘀:\n│ • 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲: %3\n│ • 𝗠𝗲𝗺𝗼𝗿𝘆: %4\n│ • 𝗖𝗣𝗨: %5\n│ • 𝗨𝗽𝘁𝗶𝗺𝗲: %6\n└─❖",
+			updatePrompt: "┌─❖\n│ 𝗫𝟲𝟵𝗫 𝗕𝗢𝗧 𝗩𝟮 𝗨𝗣𝗗𝗔𝗧𝗘𝗦\n├─•\n│ 💫 𝗡𝗲𝘄 𝗨𝗽𝗱𝗮𝘁𝗲 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲!\n│ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁: v%1 → 𝗡𝗲𝘄: v%2\n├─•\n│ 📁 𝗙𝗶𝗹𝗲𝘀 𝘁𝗼 𝗨𝗽𝗱𝗮𝘁𝗲:\n%3%4\n├─•\n│ ℹ️ 𝗗𝗲𝘁𝗮𝗶𝗹𝘀: https://github.com/ntkhang03/Goat-Bot-V2/commits\n│ 💡 𝗥𝗲𝗮𝗰𝘁 𝘁𝗼 𝘁𝗵𝗶𝘀 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 𝘁𝗼 𝗰𝗼𝗻𝗳𝗶𝗿𝗺 𝗨𝗽𝗱𝗮𝘁𝗲\n└─❖",
 			fileWillDelete: "\n│ 📁 𝗙𝗶𝗹𝗲𝘀 𝘁𝗼 𝗗𝗲𝗹𝗲𝘁𝗲:\n%1",
 			andMore: "\n│ ...and %1 more files",
-			updateConfirmed: "┌─❖\n│ 𝗦𝗔𝗚𝗢𝗥 𝗕𝗢𝗧 𝗩𝟮\n├─•\n│ 🚀 𝗨𝗽𝗱𝗮𝘁𝗶𝗻𝗴 𝗕𝗼𝘁...\n│ ⏳ 𝗣𝗹𝗲𝗮𝘀𝗲 𝘄𝗮𝗶𝘁...\n└─❖",
+			updateConfirmed: "┌─❖\n│ 𝗫𝟲𝟵𝗫 𝗕𝗢𝗧 𝗩𝟮\n├─•\n│ 🚀 𝗨𝗽𝗱𝗮𝘁𝗶𝗻𝗴 𝗕𝗼𝘁...\n│ ⏳ 𝗣𝗹𝗲𝗮𝘀𝗲 𝘄𝗮𝗶𝘁...\n└─❖",
 			updateComplete: "┌─❖\n│ 𝗫𝟲𝟵𝗫 𝗕𝗢𝗧 𝗩𝟮\n├─•\n│ ✅ 𝗨𝗽𝗱𝗮𝘁𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲!\n│ 🔄 𝗥𝗲𝘀𝘁𝗮𝗿𝘁 𝗡𝗼𝘄?\n│ 📝 𝗥𝗲𝗽𝗹𝘆 '𝘆𝗲𝘀' 𝗼𝗿 '𝘆' 𝘁𝗼 𝗰𝗼𝗻𝗳𝗶𝗿𝗺\n└─❖",
-			updateTooFast: "┌─❖\n│ 𝗦𝗔𝗚𝗢𝗥 𝗕𝗢𝗧 𝗩𝟮\n├─•\n│ ⭕ 𝗨𝗽𝗱𝗮𝘁𝗲 𝗧𝗼𝗼 𝗦𝗼𝗼𝗻!\n│ 🕐 𝗟𝗮𝘀𝘁 𝗰𝗼𝗺𝗺𝗶𝘁: %1𝗺 %2𝘀 𝗮𝗴𝗼\n│ ⏳ 𝗧𝗿𝘆 𝗮𝗴𝗮𝗶𝗻 𝗶𝗻: %3𝗺 %4𝘀\n└─❖",
-			botWillRestart: "┌─❖\n│ 𝗦𝗔𝗚𝗜𝗥 𝗕𝗢𝗧 𝗩𝟮\n├─•\n│ 🔄 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗕𝗼𝘁...\n│ ⏳ 𝗣𝗹𝗲𝗮𝘀𝗲 𝘄𝗮𝗶𝘁...\n└─❖"
+			updateTooFast: "┌─❖\n│ 𝗫𝟲𝟵𝗫 𝗕𝗢𝗧 𝗩𝟮\n├─•\n│ ⭕ 𝗨𝗽𝗱𝗮𝘁𝗲 𝗧𝗼𝗼 𝗦𝗼𝗼𝗻!\n│ 🕐 𝗟𝗮𝘀𝘁 𝗰𝗼𝗺𝗺𝗶𝘁: %1𝗺 %2𝘀 𝗮𝗴𝗼\n│ ⏳ 𝗧𝗿𝘆 𝗮𝗴𝗮𝗶𝗻 𝗶𝗻: %3𝗺 %4𝘀\n└─❖",
+			botWillRestart: "┌─❖\n│ 𝗫𝟲𝟵𝗫 𝗕𝗢𝗧 𝗩𝟮\n├─•\n│ 🔄 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗕𝗼𝘁...\n│ ⏳ 𝗣𝗹𝗲𝗮𝘀𝗲 𝘄𝗮𝗶𝘁...\n└─❖"
 		}
 	},
 
@@ -52,7 +52,7 @@ module.exports = {
 		if (fs.existsSync(dirBootLogTemp)) {
 			const threadID = fs.readFileSync(dirBootLogTemp, "utf-8");
 			fs.removeSync(dirBootLogTemp);
-			api.sendMessage("┌─❖\n│ 𝗦𝗔𝗚𝗢𝗥 𝗕𝗢𝗧 𝗩𝟮\n├─•\n│ ✅ 𝗕𝗼𝘁 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗲𝗱!\n│ 🚀 𝗕𝗼𝘁 𝗶𝘀 𝗻𝗼𝘄 𝗼𝗻𝗹𝗶𝗻𝗲\n└─❖", threadID);
+			api.sendMessage("┌─❖\n│ 𝗫𝟲𝟵𝗫 𝗕𝗢𝗧 𝗩𝟮\n├─•\n│ ✅ 𝗕𝗼𝘁 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗲𝗱!\n│ 🚀 𝗕𝗼𝘁 𝗶𝘀 𝗻𝗼𝘄 𝗼𝗻𝗹𝗶𝗻𝗲\n└─❖", threadID);
 		}
 	},
 
@@ -121,7 +121,7 @@ module.exports = {
 				});
 		} catch (error) {
 			console.error("Update check error:", error);
-			message.reply("┌─❖\n│ 𝗦𝗔𝗚𝗢𝗥 𝗕𝗢𝗧 𝗩𝟮\n├─•\n│ ❌ 𝗨𝗽𝗱𝗮𝘁𝗲 𝗖𝗵𝗲𝗰𝗸 𝗙𝗮𝗶𝗹𝗲𝗱!\n│ 🔧 𝗖𝗵𝗲𝗰𝗸 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻/𝗹𝗼𝗴𝘀\n└─❖");
+			message.reply("┌─❖\n│ 𝗫𝟲𝟵𝗫 𝗕𝗢𝗧 𝗩𝟮\n├─•\n│ ❌ 𝗨𝗽𝗱𝗮𝘁𝗲 𝗖𝗵𝗲𝗰𝗸 𝗙𝗮𝗶𝗹𝗲𝗱!\n│ 🔧 𝗖𝗵𝗲𝗰𝗸 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻/𝗹𝗼𝗴𝘀\n└─❖");
 		}
 	},
 
@@ -160,7 +160,7 @@ module.exports = {
 			});
 		} catch (error) {
 			console.error("Update error:", error);
-			message.reply("┌─❖\n│ 𝗦𝗔𝗚𝗢𝗥 𝗕𝗢𝗧 𝗩𝟮\n├─•\n│ ❌ 𝗨𝗽𝗱𝗮𝘁𝗲 𝗙𝗮𝗶𝗹𝗲𝗱!\n│ 🔧 𝗖𝗵𝗲𝗰𝗸 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻/𝗹𝗼𝗴𝘀\n└─❖");
+			message.reply("┌─❖\n│ 𝗫𝟲𝟵𝗫 𝗕𝗢𝗧 𝗩𝟮\n├─•\n│ ❌ 𝗨𝗽𝗱𝗮𝘁𝗲 𝗙𝗮𝗶𝗹𝗲𝗱!\n│ 🔧 𝗖𝗵𝗲𝗰𝗸 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻/𝗹𝗼𝗴𝘀\n└─❖");
 		}
 	},
 

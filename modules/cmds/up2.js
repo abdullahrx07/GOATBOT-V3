@@ -7,7 +7,7 @@ module.exports = {
     name: "up2",
     aliases: ["uptime2", "upt2"],
     version: "1.7",
-    author: "𝚂𝙰𝙶𝙾𝚁",
+    author: "Azadx69x",
     countDown: 5,
     role: 0,
     shortDescription: "Bot Status",
@@ -80,7 +80,7 @@ module.exports = {
         { icon: "💾", title: "MEMORY USAGE", value: `${memUsed} MB`, sub: `${memPercent}% of ${memTotal}MB`, color: "#00FF00", bar: memPercent },
         { icon: "📊", title: "CPU LOAD", value: `${cpuUsage.toFixed(1)}%`, sub: "Processor", color: "#FFAA00", bar: cpuUsage },
         { icon: "⚒️", title: "NODE VERSION", value: nodeVersion, sub: "Runtime", color: "#9D4EDD", bar: 100 },
-        { icon: "👑", title: "BOT OWNER", value: "SaGor", sub: "Administrator", color: "#FFA500", bar: 100 }
+        { icon: "👑", title: "BOT OWNER", value: "Azadx69x", sub: "Administrator", color: "#FFA500", bar: 100 }
       ];
 
       const boxW = (containerW - 120) / 2;

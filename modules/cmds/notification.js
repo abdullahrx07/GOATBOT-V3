@@ -5,7 +5,7 @@ module.exports = {
 		name: "notification",
 		aliases: ["notify"],
 		version: "2.3",
-		author: "NTKhang",
+		author: "NTKhang | Azadx69x",
 		countDown: 5,
 		role: 2,
 		description: {
@@ -16,7 +16,7 @@ module.exports = {
 			en: "{pn} <message>"
 		},
 		envConfig: {
-			delayPerGroup: 250
+			delayPerGroup: 300
 		},
 		adminBot: [
 			"61585772322631"

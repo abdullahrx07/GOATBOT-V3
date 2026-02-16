@@ -5,7 +5,7 @@ module.exports = {
   config: {
     name: "api",
     version: "1.0",
-    author: "ＳＡＧＯＲ",
+    author: "Azadx69x",
     role: 0,
     usePrefix: false,
     description: "API tester (GET/POST) with headers, params, auto JSON)",

@@ -3,7 +3,7 @@ module.exports = {
     name: "wingoMoney",
     aliases: ["wingo", "wg"],
     version: "1.8.0",
-    author: "SaGor",
+    author: "Rahat Mahmud | Azadx69x",
     role: 0,
     category: "game",
     shortDescription: "Wingo betting game",
