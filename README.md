@@ -21,7 +21,7 @@ This project includes a command system, event handlers, database support, uptime
 
 - Facebook Messenger chatbot functionality
 - Facebook login through `appstate.txt` (cookies)
-- 150+ built-in commands
+- 
 - Easily customizable structure for developers
 
 
