@@ -20,7 +20,7 @@ This project includes a command system, event handlers, database support, uptime
 ##
 
 - Facebook Messenger chatbot functionality
-- Facebook login through `appstate.json` (cookies)
+- Facebook login through `appstate.txt` (cookies)
 - 150+ built-in commands
 - Easily customizable structure for developers
 
@@ -28,7 +28,7 @@ This project includes a command system, event handlers, database support, uptime
 ## 🧰 Requirements
 
 - **Node.js version 18 or above (18+)**
-- Facebook `appstate.json` file (login cookie JSON)
+- Facebook `appstate.txt` file (login cookie JSON)
 
 
 ## ⚙️ Installation
