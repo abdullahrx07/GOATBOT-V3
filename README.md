@@ -17,25 +17,76 @@ This project includes a command system, event handlers, database support, uptime
 
 ---
 
-## 🔐 Login System
+##
 
-This bot uses **appState login** to authenticate with Facebook Messenger.
+- Facebook Messenger chatbot functionality
+- Facebook login through `appstate.json` (cookies)
+- 150+ built-in commands
+- Easily customizable structure for developers
 
-- Login logic is handled inside `Main.js`
-- Session data is stored in `account.txt`
-- No username/password required in code
 
-> AppState allows secure and faster login handling.
+## 🧰 Requirements
+
+- **Node.js version 18 or above (18+)**
+- Facebook `appstate.json` file (login cookie JSON)
+
+
+## ⚙️ Installation
+
+### 1. Repository Clone Karein
+
+```bash
+https://github.com/abdullahrx07/GOATBOT-V3.git
+```
+
+### 2. Dependencies Installed
+
+```bash
+npm install
+```
+
+### 3. Facebook Appstate Add Do it
+
+- Paste your Facebook account's `appstate.json` file in the root folder.
+
+- Ensure that the file is valid and updated.
+
+### 4. Run the Bot
+
+```bash
+node index.js
+```
 
 ---
 
-## ▶️ Start the Bot
+## 🚀 Usage
 
-Run the bot using:
+- The bot will login to your Facebook account as soon as it is launched.
 
-`node index.js`
+- It listens to Messenger chats in the background.
 
---- 
+- You can use available commands like:
+
+```
+!help
+!up
+!song [name]
+!info
+
+```
+# No Prefix system for admins
+
+```
+help
+up
+song [name]
+info
+
+```
+
+- The bot automatically tracks group and user data (if the database is configured).
+
+---
 
 
 ## 🧠 Core Modules
